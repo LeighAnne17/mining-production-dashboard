@@ -5,9 +5,9 @@ An end-to-end data analytics projects that uses SQL Server(SSMS), Excel (Power P
 Mining operations generate data from multiple systems which makes it difficult to monitor production performance and quipment utilization in one place. This project combines production, fuel usage, truck loads and downtime data into a single reporting solutionto help monitor operational performance and support better decision-making.
 
 ## Tools Used
-SQL Server(SSMS) - Data cleaning, storage and analysis
-Excel(Power Query & Power Pivot) - Data modelling and interactive reporting
-Power BI Desktop -  Dashboard creation and visualization
+- SQL Server(SSMS) -Data cleaning, storage and analysis
+-  Excel(Power Query & Power Pivot) - Data modelling and interactive reporting
+-  Power BI Desktop -  Dashboard creation and visualization
 
 ## Project Structure
 SQL Scripts -  Data cleaning and analysis queries
