@@ -10,9 +10,9 @@ Mining operations generate data from multiple systems which makes it difficult t
 -  Power BI Desktop -  Dashboard creation and visualization
 
 ## Project Structure
-SQL Scripts -  Data cleaning and analysis queries
-Excel Dashboard - interactive reporting with Pivot Tables and Slicers
-Power BI Dashboard - Multi-page dashboard for production and fleet performance
+- SQL Scripts -  Data cleaning and analysis queries
+- Excel Dashboard - interactive reporting with Pivot Tables and Slicers
+- Power BI Dashboard - Multi-page dashboard for production and fleet performance
 
 ## What I Built
 ### SQL Server
